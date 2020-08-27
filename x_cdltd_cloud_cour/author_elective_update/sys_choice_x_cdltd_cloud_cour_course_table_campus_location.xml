@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="campus_location" table="x_cdltd_cloud_cour_course_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Silicon Valley</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:48:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc83be8fed3a90107f44c217ec8dfab9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:48:20</sys_updated_on>
+            <value>silicon valley</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Seattle</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:48:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3083be8fed3a90107f44c217ec8dfabb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:48:20</sys_updated_on>
+            <value>seattle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Boston</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:48:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc83be8fed3a90107f44c217ec8dfabb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:48:20</sys_updated_on>
+            <value>boston</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>San Francisco</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:48:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c83be8fed3a90107f44c217ec8dfabc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:48:20</sys_updated_on>
+            <value>san francisco</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>campus_location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Charlotte</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:48:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b883be8fed3a90107f44c217ec8dfabd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:48:20</sys_updated_on>
+            <value>charlotte</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>campus_location</element>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:48:20</sys_created_on>
+            <sys_id>3883be8fed3a90107f44c217ec8dfaba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>campus_location</sys_name>
+            <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_cloud_cour_course_table_campus_location</sys_update_name>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:48:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

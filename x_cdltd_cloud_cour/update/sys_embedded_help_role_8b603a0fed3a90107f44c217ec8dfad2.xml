@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_cloud_cour.section_class_user" name="x_cdltd_cloud_cour.section_class_user">0b603a0fed3a90107f44c217ec8dfacf</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>ivygooch</sys_created_by>
+        <sys_created_on>2020-08-27 20:34:51</sys_created_on>
+        <sys_id>8b603a0fed3a90107f44c217ec8dfad2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0b603a0fed3a90107f44c217ec8dfacf</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8b603a0fed3a90107f44c217ec8dfad2</sys_update_name>
+        <sys_updated_by>ivygooch</sys_updated_by>
+        <sys_updated_on>2020-08-27 20:34:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

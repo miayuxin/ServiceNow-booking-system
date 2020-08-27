@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_cdltd_cloud_cour_section_table" label="Section-Class Table" max_length="40" name="x_cdltd_cloud_cour_section_class" type="collection">
+        <element label="Class Date Time" max_length="40" name="class_date_time" type="glide_date_time"/>
+        <element default="0" label="In Class Students" max_length="40" name="in_class_students" type="integer"/>
+    </element>
+</database>

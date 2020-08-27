@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Section-Class">cb607a0fed3a90107f44c217ec8dfa4e</application>
+        <filter/>
+        <name>Section-Class</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_cdltd_cloud_cour.section_class_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>ivygooch</sys_created_by>
+        <sys_created_on>2020-08-27 20:34:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>83607a0fed3a90107f44c217ec8dfa51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section-Class</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_ui_module_83607a0fed3a90107f44c217ec8dfa51</sys_update_name>
+        <sys_updated_by>ivygooch</sys_updated_by>
+        <sys_updated_on>2020-08-27 20:34:51</sys_updated_on>
+        <table>x_cdltd_cloud_cour_section_class</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

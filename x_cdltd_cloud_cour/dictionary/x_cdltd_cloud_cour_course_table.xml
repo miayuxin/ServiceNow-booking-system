@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Course Table" max_length="40" name="x_cdltd_cloud_cour_course_table" type="collection">
+        <element choice="1" label="Campus location" max_length="40" name="campus_location" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Silicon Valley" sequence="0" value="silicon valley"/>
+                <element inactive_on_update="false" label="Seattle" sequence="1" value="seattle"/>
+                <element inactive_on_update="false" label="Boston" sequence="2" value="boston"/>
+                <element inactive_on_update="false" label="San Francisco" sequence="3" value="san francisco"/>
+                <element inactive_on_update="false" label="Charlotte" sequence="4" value="charlotte"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Classroom" max_length="40" name="classroom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course ID" max_length="40" name="course_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course level" max_length="40" name="course_level" type="string">
+            <choice>
+                <element inactive_on_update="false" label="undergrad" sequence="0" value="undergrad"/>
+                <element inactive_on_update="false" label="grad" sequence="1" value="grad"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Course Name" max_length="40" name="course_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Course URL" max_length="1024" name="course_url" type="url"/>
+        <element choice="3" default="4" label="Credit" max_length="40" name="credit" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element label="End time" max_length="40" name="end_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Instructor" max_length="40" name="instructor" type="string"/>
+        <element choice="1" label="Meeting date" max_length="40" name="meeting_date" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Mondy" sequence="0" value="mondy"/>
+                <element inactive_on_update="false" label="Tuesday" sequence="1" value="tuesday"/>
+                <element inactive_on_update="false" label="Wednesday" sequence="2" value="wednesday"/>
+                <element inactive_on_update="false" label="Thursday" sequence="3" value="thursday"/>
+                <element inactive_on_update="false" label="Friday" sequence="4" value="friday"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Start time" max_length="40" name="start_time" type="glide_time"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

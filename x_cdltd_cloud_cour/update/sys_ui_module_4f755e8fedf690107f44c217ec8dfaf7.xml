@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Section">cf755e8fedf690107f44c217ec8dfaf4</application>
+        <filter/>
+        <name>Section Tables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_cdltd_cloud_cour.section_table_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>qunyu</sys_created_by>
+        <sys_created_on>2020-08-27 18:37:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4f755e8fedf690107f44c217ec8dfaf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Section Tables</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_ui_module_4f755e8fedf690107f44c217ec8dfaf7</sys_update_name>
+        <sys_updated_by>qunyu</sys_updated_by>
+        <sys_updated_on>2020-08-27 18:37:09</sys_updated_on>
+        <table>x_cdltd_cloud_cour_section_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

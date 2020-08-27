@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="meeting_date" table="x_cdltd_cloud_cour_course_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meeting_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mondy</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4862f28fed3a90107f44c217ec8dfaaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:43:23</sys_updated_on>
+            <value>mondy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meeting_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tuesday</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c62f28fed3a90107f44c217ec8dfaab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:43:23</sys_updated_on>
+            <value>tuesday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meeting_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wednesday</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c862f28fed3a90107f44c217ec8dfaac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:43:23</sys_updated_on>
+            <value>wednesday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meeting_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Thursday</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4862f28fed3a90107f44c217ec8dfaad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:43:23</sys_updated_on>
+            <value>thursday</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meeting_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Friday</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c462f28fed3a90107f44c217ec8dfaae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:43:23</sys_updated_on>
+            <value>friday</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>meeting_date</element>
+            <name>x_cdltd_cloud_cour_course_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>qunyu</sys_created_by>
+            <sys_created_on>2020-08-27 20:43:23</sys_created_on>
+            <sys_id>8062f28fed3a90107f44c217ec8dfaab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meeting_date</sys_name>
+            <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_cloud_cour_course_table_meeting_date</sys_update_name>
+            <sys_updated_by>qunyu</sys_updated_by>
+            <sys_updated_on>2020-08-27 20:43:23</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
