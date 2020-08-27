@@ -10,6 +10,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Classroom" max_length="40" name="classroom" type="string"/>
+        <element default="20" label="Classroom capacity" max_length="40" name="classroom_capacity" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Course ID" max_length="40" name="course_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Course level" max_length="40" name="course_level" type="string">
             <choice>
@@ -39,8 +40,11 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="30" label="online capacity" max_length="40" name="online_capacity" type="integer"/>
         <element label="Start time" max_length="40" name="start_time" type="glide_time"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="50" label="Total capacity" max_length="40" name="total_capacity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" dependent="user_id" dependent_on_field="user_id" label="User ID" mandatory="true" max_length="40" name="user_id" type="string" use_dependent_field="true"/>
         <index name="index">
             <element name="sys_class_name"/>
         </index>

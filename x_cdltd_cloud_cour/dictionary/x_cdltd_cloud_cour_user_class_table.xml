@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="User-Class Table" max_length="40" name="x_cdltd_cloud_cour_user_class_table" type="collection">
+        <element label="Course ID" max_length="40" name="course_id" type="string"/>
         <element label="User ID" max_length="32" name="user_id" reference="sys_user" type="reference"/>
         <index name="index">
             <element name="user_id"/>

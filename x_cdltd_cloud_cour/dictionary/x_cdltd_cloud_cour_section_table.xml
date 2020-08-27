@@ -8,11 +8,13 @@
                 <element inactive_on_update="false" label="NUflex" sequence="2" value="nuflex"/>
             </choice>
         </element>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
         <element default="30" label="Max Capacity" max_length="40" name="max_capacity" type="integer"/>
         <element label="Section ID" max_length="40" name="section_id" type="string"/>
         <element choice="1" label="Section Number" max_length="40" name="section_num" type="integer">
             <choice/>
         </element>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date_time"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
             <element name="sys_class_name"/>
