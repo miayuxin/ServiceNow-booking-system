@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>course_name</element>
+        <name>x_cdltd_cloud_cour_course_table</name>
+        <style>background-color: lightskyblue;&#13;
+font-weight:bold;&#13;
+</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>mia</sys_created_by>
+        <sys_created_on>2020-08-27 21:34:16</sys_created_on>
+        <sys_id>e50e7607ed7a90107f44c217ec8dfaaf</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_cdltd_cloud_cour_course_table</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_ui_style_e50e7607ed7a90107f44c217ec8dfaaf</sys_update_name>
+        <sys_updated_by>mia</sys_updated_by>
+        <sys_updated_on>2020-08-27 22:09:25</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=e50e7607ed7a90107f44c217ec8dfaaf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</application>
+        <file_path/>
+        <instance_id>e9fd8871db3e1c5880d9a18c1396199b</instance_id>
+        <instance_name>adf-aug-102-dev-060</instance_name>
+        <name>sys_ui_style_e50e7607ed7a90107f44c217ec8dfaaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>course_name</element><name>x_cdltd_cloud_cour_course_table</name><style>background-color: lightskyblue;&#13;
+font-weight:bold;&#13;
+</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>mia</sys_created_by><sys_created_on>2020-08-27 21:34:16</sys_created_on><sys_id>e50e7607ed7a90107f44c217ec8dfaaf</sys_id><sys_mod_count>4</sys_mod_count><sys_name>x_cdltd_cloud_cour_course_table</sys_name><sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package><sys_policy/><sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope><sys_update_name>sys_ui_style_e50e7607ed7a90107f44c217ec8dfaaf</sys_update_name><sys_updated_by>mia</sys_updated_by><sys_updated_on>2020-08-27 22:09:25</sys_updated_on><value/></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=e50e7607ed7a90107f44c217ec8dfaaf"/></record_update>]]></payload>
+        <payload_hash>1277485534</payload_hash>
+        <record_name>x_cdltd_cloud_cour_course_table</record_name>
+        <reverted_from/>
+        <source>37fefe07ed7a90107f44c217ec8dfa7e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mia</sys_created_by>
+        <sys_created_on>2020-08-27 22:09:26</sys_created_on>
+        <sys_id>2016cf4bed7a90107f44c217ec8dfaa5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17431f7ee2c0000001</sys_recorded_at>
+        <sys_updated_by>mia</sys_updated_by>
+        <sys_updated_on>2020-08-27 22:09:26</sys_updated_on>
+        <type>Style</type>
+        <update_guid>6816cf4b7d7a9010fa3afc807ba9eca4</update_guid>
+        <update_guid_history>6816cf4b7d7a9010fa3afc807ba9eca4:1277485534,3a45c74b517a90100e80a023b038b1d9:1140821577,bc15c74b0d7a9010c445239cec73cc3a:826086317,792e3a07af7a90106252b1e38d1ed723:-1521900554,210e7607a27a9010a1f044ae76c563b1:-1428770194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mia</sys_created_by>
+        <sys_created_on>2020-08-27 22:10:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>72a2b6be6b4946aaa78a99d453fc5e04</sys_id>
+        <sys_metadata>e50e7607ed7a90107f44c217ec8dfaaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cloud_cour_course_table</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_parent display_value="Course Table">0222de0fedf690107f44c217ec8dfa6d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_scope_delete display_value="">0e6083f1e8b240d0881ae4b581a94900</sys_scope_delete>
+        <sys_update_name>sys_ui_style_e50e7607ed7a90107f44c217ec8dfaaf</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_e50e7607ed7a90107f44c217ec8dfaaf">2016cf4bed7a90107f44c217ec8dfaa5</sys_update_version>
+        <sys_updated_by>mia</sys_updated_by>
+        <sys_updated_on>2020-08-27 22:10:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
