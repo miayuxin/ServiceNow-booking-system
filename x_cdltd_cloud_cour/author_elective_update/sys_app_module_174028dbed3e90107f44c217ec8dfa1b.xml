@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="CS5001_Student_list">df4028dbed3e90107f44c217ec8dfa17</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>CS5001_Student_lists</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_cloud_cour_cs5001_student_list</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_cloud_cour.cs5001_student_list_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:43:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>174028dbed3e90107f44c217ec8dfa1b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5001_Student_lists</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_app_module_174028dbed3e90107f44c217ec8dfa1b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:43:39</sys_updated_on>
+        <timeline_page/>
+        <title>CS5001_Student_lists</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</application>
+        <file_path/>
+        <instance_id>e9fd8871db3e1c5880d9a18c1396199b</instance_id>
+        <instance_name>adf-aug-102-dev-060</instance_name>
+        <name>sys_app_module_174028dbed3e90107f44c217ec8dfa1b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CS5001_Student_list">df4028dbed3e90107f44c217ec8dfa17</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>CS5001_Student_lists</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_cloud_cour_cs5001_student_list</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_cloud_cour.cs5001_student_list_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-28 04:43:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>174028dbed3e90107f44c217ec8dfa1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CS5001_Student_lists</sys_name><sys_overrides/><sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package><sys_policy/><sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope><sys_update_name>sys_app_module_174028dbed3e90107f44c217ec8dfa1b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-28 04:43:39</sys_updated_on><timeline_page/><title>CS5001_Student_lists</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1205248883</payload_hash>
+        <record_name>CS5001_Student_lists</record_name>
+        <reverted_from/>
+        <source>63dfcfcfed7a90107f44c217ec8dfaa5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:43:39</sys_created_on>
+        <sys_id>174028dbed3e90107f44c217ec8dfa1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1743360db870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:43:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>5f4028dbdc3e9010756e249682490f1d</update_guid>
+        <update_guid_history>5f4028dbdc3e9010756e249682490f1d:1205248883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CS5001_Student_lists">bd51641fed3e90107f44c217ec8dfa15</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:48:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>586d913fe3764c6ca0ee586d2dc6a1e9</sys_id>
+        <sys_metadata>174028dbed3e90107f44c217ec8dfa1b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5001_Student_lists</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_scope_delete display_value="">0e6083f1e8b240d0881ae4b581a94900</sys_scope_delete>
+        <sys_update_name>sys_app_module_174028dbed3e90107f44c217ec8dfa1b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_174028dbed3e90107f44c217ec8dfa1b">174028dbed3e90107f44c217ec8dfa1e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:48:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

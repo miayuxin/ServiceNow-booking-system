@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>CS5001_Student_list</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_cdltd_cloud_cour_cs5001_student_list</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:43:39</sys_created_on>
+        <sys_id>5430a4dbed3e90107f44c217ec8dfa23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5001_Student_list</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_db_object_5430a4dbed3e90107f44c217ec8dfa23</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:43:39</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_cdltd_cloud_cour.cs5001_student_list_user" name="x_cdltd_cloud_cour.cs5001_student_list_user">df40e4dbed3e90107f44c217ec8dfa3b</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</application>
+        <file_path/>
+        <instance_id>e9fd8871db3e1c5880d9a18c1396199b</instance_id>
+        <instance_name>adf-aug-102-dev-060</instance_name>
+        <name>sys_db_object_5430a4dbed3e90107f44c217ec8dfa23</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>CS5001_Student_list</label><live_feed_enabled>false</live_feed_enabled><name>x_cdltd_cloud_cour_cs5001_student_list</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-28 04:43:39</sys_created_on><sys_id>5430a4dbed3e90107f44c217ec8dfa23</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CS5001_Student_list</sys_name><sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package><sys_policy/><sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope><sys_update_name>sys_db_object_5430a4dbed3e90107f44c217ec8dfa23</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-28 04:43:39</sys_updated_on><update_access>false</update_access><user_role display_value="x_cdltd_cloud_cour.cs5001_student_list_user" name="x_cdltd_cloud_cour.cs5001_student_list_user">df40e4dbed3e90107f44c217ec8dfa3b</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1626932408</payload_hash>
+        <record_name>CS5001_Student_list</record_name>
+        <reverted_from/>
+        <source>63dfcfcfed7a90107f44c217ec8dfaa5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:43:40</sys_created_on>
+        <sys_id>2b4028dbed3e90107f44c217ec8dfa86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1743360deea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:43:40</sys_updated_on>
+        <type>Table</type>
+        <update_guid>634028dbb73e90107821de1c0cdfef86</update_guid>
+        <update_guid_history>634028dbb73e90107821de1c0cdfef86:1626932408</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:48:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>531a25e641af46f4af3eb834cf697539</sys_id>
+        <sys_metadata>5430a4dbed3e90107f44c217ec8dfa23</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5001_Student_list</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_scope_delete display_value="">0e6083f1e8b240d0881ae4b581a94900</sys_scope_delete>
+        <sys_update_name>sys_db_object_5430a4dbed3e90107f44c217ec8dfa23</sys_update_name>
+        <sys_update_version display_value="sys_db_object_5430a4dbed3e90107f44c217ec8dfa23">2b4028dbed3e90107f44c217ec8dfa86</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:48:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

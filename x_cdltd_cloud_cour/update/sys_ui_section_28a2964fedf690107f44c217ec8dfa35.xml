@@ -3,210 +3,266 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>course_id</element>
             <position>0</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>4b454b4bed7a90107f44c217ec8dfa7d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>0e4f5c9bed3e90107f44c217ec8dfa31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>course_name</element>
             <position>1</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>cf454b4bed7a90107f44c217ec8dfa7d</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>8e4f5c9bed3e90107f44c217ec8dfa31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>course_level</element>
             <position>2</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>43454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>024f5c9bed3e90107f44c217ec8dfa32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>instructor</element>
             <position>3</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>c3454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>824f5c9bed3e90107f44c217ec8dfa32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>credit</element>
             <position>4</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>47454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>064f5c9bed3e90107f44c217ec8dfa32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>course_url</element>
             <position>5</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>c7454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>864f5c9bed3e90107f44c217ec8dfa32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enrolled_students</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>0a4f5c9bed3e90107f44c217ec8dfa32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enrolled_online</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>8a4f5c9bed3e90107f44c217ec8dfa32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enrolled_classroom</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>0e4f5c9bed3e90107f44c217ec8dfa32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>6</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>4b454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>8e4f5c9bed3e90107f44c217ec8dfa32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>campus_location</element>
-            <position>7</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>cb454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>024f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>classroom</element>
-            <position>8</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>4f454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>824f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>meeting_date</element>
-            <position>9</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>cf454b4bed7a90107f44c217ec8dfa7e</sys_id>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>064f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>start_time</element>
-            <position>10</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>43454b4bed7a90107f44c217ec8dfa7f</sys_id>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>864f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>end_time</element>
-            <position>11</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>c3454b4bed7a90107f44c217ec8dfa7f</sys_id>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>0a4f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_capacity</element>
-            <position>12</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>47454b4bed7a90107f44c217ec8dfa7f</sys_id>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>8a4f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>online_capacity</element>
-            <position>13</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>c7454b4bed7a90107f44c217ec8dfa7f</sys_id>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>0e4f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>classroom_capacity</element>
-            <position>14</position>
-            <sys_created_by>qunyu</sys_created_by>
-            <sys_created_on>2020-08-27 22:06:03</sys_created_on>
-            <sys_id>4b454b4bed7a90107f44c217ec8dfa7f</sys_id>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>8e4f5c9bed3e90107f44c217ec8dfa33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
-            <sys_updated_by>qunyu</sys_updated_by>
-            <sys_updated_on>2020-08-27 22:06:03</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_list</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:39:12</sys_created_on>
+            <sys_id>024f5c9bed3e90107f44c217ec8dfa34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_cloud_cour_course_table" sys_domain="global" view="Default view">28a2964fedf690107f44c217ec8dfa35</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:39:12</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

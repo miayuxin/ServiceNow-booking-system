@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="CS5001_Student_list">9f4028dbed3e90107f44c217ec8dfa1e</application>
+        <filter/>
+        <name>CS5001_Student_lists</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_cdltd_cloud_cour.cs5001_student_list_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:43:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>974028dbed3e90107f44c217ec8dfa21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5001_Student_lists</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_ui_module_974028dbed3e90107f44c217ec8dfa21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:43:39</sys_updated_on>
+        <table>x_cdltd_cloud_cour_cs5001_student_list</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</application>
+        <file_path/>
+        <instance_id>e9fd8871db3e1c5880d9a18c1396199b</instance_id>
+        <instance_name>adf-aug-102-dev-060</instance_name>
+        <name>sys_ui_module_974028dbed3e90107f44c217ec8dfa21</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="CS5001_Student_list">9f4028dbed3e90107f44c217ec8dfa1e</application><filter/><name>CS5001_Student_lists</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_cdltd_cloud_cour.cs5001_student_list_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-28 04:43:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>974028dbed3e90107f44c217ec8dfa21</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CS5001_Student_lists</sys_name><sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package><sys_policy/><sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope><sys_update_name>sys_ui_module_974028dbed3e90107f44c217ec8dfa21</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-28 04:43:39</sys_updated_on><table>x_cdltd_cloud_cour_cs5001_student_list</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-785028851</payload_hash>
+        <record_name>CS5001_Student_lists</record_name>
+        <reverted_from/>
+        <source>63dfcfcfed7a90107f44c217ec8dfaa5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:43:39</sys_created_on>
+        <sys_id>d34028dbed3e90107f44c217ec8dfa30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1743360dbd20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:43:39</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1f4028dba73e90108490b335f34e152f</update_guid>
+        <update_guid_history>1f4028dba73e90108490b335f34e152f:-785028851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:48:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>9fdc7391eb944f849bebd6a1930f7690</sys_id>
+        <sys_metadata>974028dbed3e90107f44c217ec8dfa21</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS5001_Student_lists</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_scope_delete display_value="">0e6083f1e8b240d0881ae4b581a94900</sys_scope_delete>
+        <sys_update_name>sys_ui_module_974028dbed3e90107f44c217ec8dfa21</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_974028dbed3e90107f44c217ec8dfa21">d34028dbed3e90107f44c217ec8dfa30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:48:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

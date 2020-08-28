@@ -29,6 +29,9 @@
             </choice>
         </element>
         <element label="End time" max_length="40" name="end_time" type="glide_time"/>
+        <element label="Enrolled Classroom" max_length="40" name="enrolled_classroom" type="integer"/>
+        <element label="Enrolled Online" max_length="40" name="enrolled_online" type="integer"/>
+        <element label="Enrolled Students" max_length="40" name="enrolled_students" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Instructor" max_length="40" name="instructor" type="string"/>
         <element choice="1" label="Meeting date" max_length="40" name="meeting_date" type="string">
             <choice>
