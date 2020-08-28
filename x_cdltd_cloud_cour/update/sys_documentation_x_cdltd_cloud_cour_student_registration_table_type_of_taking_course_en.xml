@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type_of_taking_course" label="Type of taking course" language="en" table="x_cdltd_cloud_cour_student_registration_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type_of_taking_course</element>
+            <help/>
+            <hint/>
+            <label>Type of taking course</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_student_registration_table</name>
+            <plural>Type of taking courses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 10:11:54</sys_created_on>
+            <sys_id>e36bad17ed32d0107f44c217ec8dfad0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type of taking course</sys_name>
+            <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_cloud_cour_student_registration_table_type_of_taking_course_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 10:11:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

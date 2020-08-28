@@ -11,8 +11,8 @@
         <copied_from_name/>
         <description/>
         <internal_name>hhh</internal_name>
-        <label_cache>[{"name":"Created_1.current","label":"Trigger➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{}},{"name":"a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created or Updated_1.current.total_capacity","label":"Trigger➛Course Table Record➛Total capacity","reference":"","reference_display":"Total capacity","type":"integer","base_type":"integer","parent_table_name":"x_cdltd_cloud_cour_course_table","column_name":"total_capacity"},{"name":"6ae14292-0ad6-4699-b85e-0558d949c474.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ae14292-0ad6-4699-b85e-0558d949c474.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created or Updated_1.current","label":"Trigger➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{}},{"name":"033a4420-8984-4204-8acc-2b1927069aac.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"033a4420-8984-4204-8acc-2b1927069aac.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current","label":"Trigger➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{}},{"name":"009868a3-120e-49db-928f-812acda8bd05.record","label":"1➛Record","reference":"sys_hub_action_input","reference_display":"Action Inputs","type":"document_id","base_type":"document_id","attributes":{"uiType":"document_id","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"009868a3-120e-49db-928f-812acda8bd05.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"uiType":"table_name","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"009868a3-120e-49db-928f-812acda8bd05.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"009868a3-120e-49db-928f-812acda8bd05.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.table_name","label":"Trigger➛Course Table Table","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"table_name","base_type":"table_name","attributes":{"test_input_hidden":"true"}}]</label_cache>
-        <latest_snapshot>942b5c1bed3e90107f44c217ec8dfabc</latest_snapshot>
+        <label_cache>[{"name":"66bb71be-13b5-4b5a-9d4e-c4bf0632e41e.Table","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"66bb71be-13b5-4b5a-9d4e-c4bf0632e41e.Record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8a9794e7-8c41-4830-982f-ee23525845c8.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8a9794e7-8c41-4830-982f-ee23525845c8.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bfa6711d-b9c1-4a52-b38e-cab2b9bad52b.table_name","label":"1➛Course Table Table","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"bfa6711d-b9c1-4a52-b38e-cab2b9bad52b.record","label":"1➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"da2843e1-609b-4636-b00e-facef536990d.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"da2843e1-609b-4636-b00e-facef536990d.Record","label":"1➛Record","reference":"task","reference_display":"Task","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created_1.current","label":"Trigger➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{}},{"name":"a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created or Updated_1.current.total_capacity","label":"Trigger➛Course Table Record➛Total capacity","reference":"","reference_display":"Total capacity","type":"integer","base_type":"integer","parent_table_name":"x_cdltd_cloud_cour_course_table","column_name":"total_capacity"},{"name":"6ae14292-0ad6-4699-b85e-0558d949c474.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"6ae14292-0ad6-4699-b85e-0558d949c474.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Created or Updated_1.current","label":"Trigger➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{}},{"name":"033a4420-8984-4204-8acc-2b1927069aac.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"033a4420-8984-4204-8acc-2b1927069aac.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current","label":"Trigger➛Course Table Record","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"reference","base_type":"reference","attributes":{}},{"name":"009868a3-120e-49db-928f-812acda8bd05.record","label":"1➛Record","reference":"sys_hub_action_input","reference_display":"Action Inputs","type":"document_id","base_type":"document_id","attributes":{"uiType":"document_id","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"009868a3-120e-49db-928f-812acda8bd05.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"uiType":"table_name","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"009868a3-120e-49db-928f-812acda8bd05.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"009868a3-120e-49db-928f-812acda8bd05.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.table_name","label":"Trigger➛Course Table Table","reference":"x_cdltd_cloud_cour_course_table","reference_display":"Course Table","type":"table_name","base_type":"table_name","attributes":{"test_input_hidden":"true"}}]</label_cache>
+        <latest_snapshot>ae22619fedfe90107f44c217ec8dfa8c</latest_snapshot>
         <master_snapshot>08638c9bedfa90107f44c217ec8dfac6</master_snapshot>
         <name>hhh</name>
         <natlang/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5842c09bedfa90107f44c217ec8dfaa8</sys_id>
-        <sys_mod_count>39</sys_mod_count>
+        <sys_mod_count>134</sys_mod_count>
         <sys_name>hhh</sys_name>
         <sys_overrides/>
         <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
@@ -37,14 +37,14 @@
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name>sys_hub_flow_5842c09bedfa90107f44c217ec8dfaa8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:31</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:56</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=5842c09bedfa90107f44c217ec8dfaa8"/>
     <sys_variable_value action="delete_multiple" query="document_key=5842c09bedfa90107f44c217ec8dfaa8"/>
     <sys_flow_record_trigger action="INSERT_OR_UPDATE">
         <active>true</active>
-        <condition table="x_cdltd_cloud_cour_course_table">classroom_capacity=10<item endquery="false" field="classroom_capacity" goto="false" newquery="false" operator="=" or="false" value="10"/>
+        <condition table="x_cdltd_cloud_cour_course_table">^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <name/>
         <on_delete>false</on_delete>
@@ -60,16 +60,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1c63cc9bedfa90107f44c217ec8dfa0b</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_overrides/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:52</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <table>x_cdltd_cloud_cour_course_table</table>
     </sys_flow_record_trigger>
-    <sys_hub_flow_component action="delete_multiple" query="flow=5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN2c571897ed3e90107f44c217ec8dfa8b"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN48481157edfe90107f44c217ec8dfa0c"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
@@ -81,80 +80,43 @@
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>2c571897ed3e90107f44c217ec8dfa8b</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>48481157edfe90107f44c217ec8dfa0c</sys_id>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:21:04</sys_updated_on>
-        <ui_id>a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb</ui_id>
+        <sys_updated_on>2020-08-28 09:31:25</sys_updated_on>
+        <ui_id>bfa6711d-b9c1-4a52-b38e-cab2b9bad52b</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=2c571897ed3e90107f44c217ec8dfa8b"/>
+    <sys_variable_value action="delete_multiple" query="document_key=48481157edfe90107f44c217ec8dfa0c"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>2c571897ed3e90107f44c217ec8dfa8b</document_key>
-        <order>100</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>38571897ed3e90107f44c217ec8dfa8e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
-        <value>total_capacity=fd-scripted</value>
-        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>2c571897ed3e90107f44c217ec8dfa8b</document_key>
+        <document_key>48481157edfe90107f44c217ec8dfa0c</document_key>
         <order>50</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>fc571897ed3e90107f44c217ec8dfa8e</sys_id>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>44481157edfe90107f44c217ec8dfa0e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
+        <sys_updated_on>2020-08-28 08:48:05</sys_updated_on>
         <value>x_cdltd_cloud_cour_course_table</value>
         <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=2c571897ed3e90107f44c217ec8dfa8b"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>record</field>
-        <id>2c571897ed3e90107f44c217ec8dfa8b</id>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>48481157edfe90107f44c217ec8dfa0c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>f0571897ed3e90107f44c217ec8dfa8e</sys_id>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>80481157edfe90107f44c217ec8dfa0e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:48</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>{{Created_1.current}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table_name</field>
-        <id>2c571897ed3e90107f44c217ec8dfa8b</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>2c571897ed3e90107f44c217ec8dfa8d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>values</field>
-        <id>2c571897ed3e90107f44c217ec8dfa8b</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>b4571897ed3e90107f44c217ec8dfa8e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
+        <sys_updated_on>2020-08-28 09:15:27</sys_updated_on>
+        <value>online_capacity=fd-scripted</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN139a541bed3e90107f44c217ec8dfa2b"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -165,10 +127,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 04:18:48</sys_created_on>
         <sys_id>139a541bed3e90107f44c217ec8dfa2b</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>98</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:31</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:56</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -197,10 +159,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 04:18:48</sys_created_on>
         <sys_id>9b9a541bed3e90107f44c217ec8dfa2c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:48</sys_updated_on>
-        <value>classroom_capacity=10</value>
+        <sys_updated_on>2020-08-28 08:48:05</sys_updated_on>
+        <value>^EQ</value>
         <variable display_value="">66aadea0c31322002841b63b12d3aebf</variable>
     </sys_variable_value>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN1442c09bedfa90107f44c217ec8dfaab"/>
@@ -278,14 +240,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 02:37:02</sys_created_on>
         <sys_id>2853c89bedfa90107f44c217ec8dfada</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>83</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:31</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -359,14 +321,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 02:37:02</sys_created_on>
         <sys_id>e8534c9bedfa90107f44c217ec8dfaa8</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>83</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:31</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:56</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -378,9 +340,8 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_instance action="delete_multiple" query="flow=5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN2c571897ed3e90107f44c217ec8dfa8b"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN48481157edfe90107f44c217ec8dfa0c"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
@@ -392,93 +353,69 @@
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>2c571897ed3e90107f44c217ec8dfa8b</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>48481157edfe90107f44c217ec8dfa0c</sys_id>
+        <sys_mod_count>56</sys_mod_count>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:21:04</sys_updated_on>
-        <ui_id>a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb</ui_id>
+        <sys_updated_on>2020-08-28 09:31:25</sys_updated_on>
+        <ui_id>bfa6711d-b9c1-4a52-b38e-cab2b9bad52b</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=2c571897ed3e90107f44c217ec8dfa8b"/>
+    <sys_variable_value action="delete_multiple" query="document_key=48481157edfe90107f44c217ec8dfa0c"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>2c571897ed3e90107f44c217ec8dfa8b</document_key>
-        <order>100</order>
-        <sys_class_name>sys_variable_value</sys_class_name>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>38571897ed3e90107f44c217ec8dfa8e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
-        <value>total_capacity=fd-scripted</value>
-        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
-    </sys_variable_value>
-    <sys_variable_value action="INSERT_OR_UPDATE">
-        <document>sys_hub_action_instance</document>
-        <document_key>2c571897ed3e90107f44c217ec8dfa8b</document_key>
+        <document_key>48481157edfe90107f44c217ec8dfa0c</document_key>
         <order>50</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>fc571897ed3e90107f44c217ec8dfa8e</sys_id>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>44481157edfe90107f44c217ec8dfa0e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
+        <sys_updated_on>2020-08-28 08:48:05</sys_updated_on>
         <value>x_cdltd_cloud_cour_course_table</value>
         <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=2c571897ed3e90107f44c217ec8dfa8b"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>record</field>
-        <id>2c571897ed3e90107f44c217ec8dfa8b</id>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>48481157edfe90107f44c217ec8dfa0c</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>f0571897ed3e90107f44c217ec8dfa8e</sys_id>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>80481157edfe90107f44c217ec8dfa0e</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:48</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>{{Created_1.current}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table_name</field>
-        <id>2c571897ed3e90107f44c217ec8dfa8b</id>
+        <sys_updated_on>2020-08-28 09:15:27</sys_updated_on>
+        <value>online_capacity=fd-scripted</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=48481157edfe90107f44c217ec8dfa0c^sys_idNOT INc4481157edfe90107f44c217ec8dfa0d,fc8e1d5bedfe90107f44c217ec8dfa62"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>record</input_name>
+        <instance>48481157edfe90107f44c217ec8dfa0c</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"record":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar gr \u003d new GlideRecord(\u0027x_cdltd_cloud_cour_course_table\u0027);\n//fd_data.trigger.current.setValue.enrolled_students \u003d 123;\ngr.query();\nwhile (gr.next()){\n    if (gr.getValue(\u0027total_capacity\u0027) \u003d\u003d\u003d \u002710\u0027) {\n        //gr.setValue(\u0027online_capacity\u0027, 99);\n        return gr;\n    }\n}\nreturn null;"}}</script>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>2c571897ed3e90107f44c217ec8dfa8d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2020-08-28 08:48:05</sys_created_on>
+        <sys_id>c4481157edfe90107f44c217ec8dfa0d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>values</field>
-        <id>2c571897ed3e90107f44c217ec8dfa8b</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>b4571897ed3e90107f44c217ec8dfa8e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:25</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=2c571897ed3e90107f44c217ec8dfa8b^sys_idNOT IN20571897ed3e90107f44c217ec8dfa8d"/>
+        <sys_updated_on>2020-08-28 09:21:58</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_input_scripts action="INSERT_OR_UPDATE">
         <active>true</active>
         <input_name>values</input_name>
-        <instance>2c571897ed3e90107f44c217ec8dfa8b</instance>
+        <instance>48481157edfe90107f44c217ec8dfa0c</instance>
         <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"total_capacity":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar shortDesc \u003d fd_data.trigger.current.total_capacity;\nreturn parseInt(shortDesc, 10) + 1;","savedValue":""}}</script>
+        <script>{"online_capacity":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar gr \u003d new GlideRecord(\u0027x_cdltd_cloud_cour_course_table\u0027);\n//fd_data.trigger.current.setValue.enrolled_students \u003d 123;\ngr.query();\nwhile (gr.next()){\n    if (gr.getValue(\u0027total_capacity\u0027) \u003d\u003d\u003d \u002710\u0027) {\n        //gr.setValue(\u0027online_capacity\u0027, 99);\n        return gr.getValue(\u0027online_capacity\u0027) + 1;\n    }\n}\nreturn 0;","savedValue":""}}</script>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:25</sys_created_on>
-        <sys_id>20571897ed3e90107f44c217ec8dfa8d</sys_id>
+        <sys_created_on>2020-08-28 09:15:27</sys_created_on>
+        <sys_id>fc8e1d5bedfe90107f44c217ec8dfa62</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:26</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:51</sys_updated_on>
     </sys_hub_input_scripts>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_5842c09bedfa90107f44c217ec8dfaa8^sys_idNOT IN78534c9bedfa90107f44c217ec8dfaac,ac534c9bedfa90107f44c217ec8dfa94"/>
     <sys_documentation action="INSERT_OR_UPDATE">
@@ -532,17 +469,17 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"1863cc9bedfa90107f44c217ec8dfa0c","name":"plan"}}</plan>
         <plan_id>5842c09bedfa90107f44c217ec8dfaa8</plan_id>
-        <snapshot>942b5c1bed3e90107f44c217ec8dfabc</snapshot>
+        <snapshot>ae22619fedfe90107f44c217ec8dfa8c</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 02:37:17</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1863cc9bedfa90107f44c217ec8dfa0c</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>37</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:31</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <trigger display_value="">1c63cc9bedfa90107f44c217ec8dfa0b</trigger>
     </sys_flow_trigger_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
@@ -572,7 +509,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>08638c9bedfa90107f44c217ec8dfac6</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -580,14 +517,13 @@
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:30</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=08638c9bedfa90107f44c217ec8dfac6"/>
     <sys_variable_value action="delete_multiple" query="document_key=08638c9bedfa90107f44c217ec8dfac6"/>
-    <sys_hub_flow_component action="delete_multiple" query="flow=08638c9bedfa90107f44c217ec8dfac6^sys_idNOT IN6d575897ed3e90107f44c217ec8dfab4"/>
+    <sys_hub_flow_component action="delete_multiple" query="flow=08638c9bedfa90107f44c217ec8dfac6^sys_idNOT INbc481157edfe90107f44c217ec8dfaca"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
@@ -599,80 +535,43 @@
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>6d575897ed3e90107f44c217ec8dfab4</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>bc481157edfe90107f44c217ec8dfaca</sys_id>
+        <sys_mod_count>28</sys_mod_count>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:30</sys_updated_on>
-        <ui_id>a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb</ui_id>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
+        <ui_id>bfa6711d-b9c1-4a52-b38e-cab2b9bad52b</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=6d575897ed3e90107f44c217ec8dfab4"/>
+    <sys_variable_value action="delete_multiple" query="document_key=bc481157edfe90107f44c217ec8dfaca"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>6d575897ed3e90107f44c217ec8dfab4</document_key>
+        <document_key>bc481157edfe90107f44c217ec8dfaca</document_key>
         <order>50</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>2d575897ed3e90107f44c217ec8dfab6</sys_id>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>b8481157edfe90107f44c217ec8dfacc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
+        <sys_updated_on>2020-08-28 08:48:09</sys_updated_on>
         <value>x_cdltd_cloud_cour_course_table</value>
         <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>6d575897ed3e90107f44c217ec8dfab4</document_key>
+        <document_key>bc481157edfe90107f44c217ec8dfaca</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>69575897ed3e90107f44c217ec8dfab6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
-        <value>total_capacity=fd-scripted</value>
-        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=6d575897ed3e90107f44c217ec8dfab4"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>record</field>
-        <id>6d575897ed3e90107f44c217ec8dfab4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>25575897ed3e90107f44c217ec8dfab6</sys_id>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>f4481157edfe90107f44c217ec8dfacc</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:51</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>{{Created_1.current}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table_name</field>
-        <id>6d575897ed3e90107f44c217ec8dfab4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>61575897ed3e90107f44c217ec8dfab6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>values</field>
-        <id>6d575897ed3e90107f44c217ec8dfab4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>e5575897ed3e90107f44c217ec8dfab6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
+        <sys_updated_on>2020-08-28 09:15:31</sys_updated_on>
+        <value>online_capacity=fd-scripted</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=08638c9bedfa90107f44c217ec8dfac6^sys_idNOT IN00638c9bedfa90107f44c217ec8dfaf4"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -683,10 +582,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 02:37:17</sys_created_on>
         <sys_id>00638c9bedfa90107f44c217ec8dfaf4</sys_id>
-        <sys_mod_count>39</sys_mod_count>
+        <sys_mod_count>129</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:31</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <trigger_definition display_value="Created">798916a0c31322002841b63b12d3ae7c</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -785,10 +684,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 04:18:51</sys_created_on>
         <sys_id>c8aa941bed3e90107f44c217ec8dfa17</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:51</sys_updated_on>
-        <value>classroom_capacity=10</value>
+        <sys_updated_on>2020-08-28 08:48:09</sys_updated_on>
+        <value>^EQ</value>
         <variable display_value="">66aadea0c31322002841b63b12d3aebf</variable>
     </sys_variable_value>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=08638c9bedfa90107f44c217ec8dfac6^sys_idNOT IN48638c9bedfa90107f44c217ec8dfac7"/>
@@ -866,14 +765,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 02:37:16</sys_created_on>
         <sys_id>4c638c9bedfa90107f44c217ec8dfae5</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>83</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:30</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -947,14 +846,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-28 02:37:16</sys_created_on>
         <sys_id>84638c9bedfa90107f44c217ec8dfaca</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>84</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:30</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -966,9 +865,8 @@
         <write_roles/>
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
-    <sys_hub_action_instance action="delete_multiple" query="flow=08638c9bedfa90107f44c217ec8dfac6^sys_idNOT IN6d575897ed3e90107f44c217ec8dfab4"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=08638c9bedfa90107f44c217ec8dfac6^sys_idNOT INbc481157edfe90107f44c217ec8dfaca"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
-        <action_inputs/>
         <action_inputs/>
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
@@ -980,93 +878,69 @@
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>6d575897ed3e90107f44c217ec8dfab4</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>bc481157edfe90107f44c217ec8dfaca</sys_id>
+        <sys_mod_count>28</sys_mod_count>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:30</sys_updated_on>
-        <ui_id>a8eee9c1-9085-4f5a-8e1c-2b40f1dd99fb</ui_id>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
+        <ui_id>bfa6711d-b9c1-4a52-b38e-cab2b9bad52b</ui_id>
     </sys_hub_action_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=6d575897ed3e90107f44c217ec8dfab4"/>
+    <sys_variable_value action="delete_multiple" query="document_key=bc481157edfe90107f44c217ec8dfaca"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>6d575897ed3e90107f44c217ec8dfab4</document_key>
+        <document_key>bc481157edfe90107f44c217ec8dfaca</document_key>
         <order>50</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>2d575897ed3e90107f44c217ec8dfab6</sys_id>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>b8481157edfe90107f44c217ec8dfacc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
+        <sys_updated_on>2020-08-28 08:48:09</sys_updated_on>
         <value>x_cdltd_cloud_cour_course_table</value>
         <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_action_instance</document>
-        <document_key>6d575897ed3e90107f44c217ec8dfab4</document_key>
+        <document_key>bc481157edfe90107f44c217ec8dfaca</document_key>
         <order>100</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>69575897ed3e90107f44c217ec8dfab6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
-        <value>total_capacity=fd-scripted</value>
-        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
-    </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=6d575897ed3e90107f44c217ec8dfab4"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>record</field>
-        <id>6d575897ed3e90107f44c217ec8dfab4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>25575897ed3e90107f44c217ec8dfab6</sys_id>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>f4481157edfe90107f44c217ec8dfacc</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:18:51</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>{{Created_1.current}}</value>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>table_name</field>
-        <id>6d575897ed3e90107f44c217ec8dfab4</id>
+        <sys_updated_on>2020-08-28 09:15:31</sys_updated_on>
+        <value>online_capacity=fd-scripted</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=bc481157edfe90107f44c217ec8dfaca^sys_idNOT IN3c481157edfe90107f44c217ec8dfacb,ad8e5d5bedfe90107f44c217ec8dfa1a"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>record</input_name>
+        <instance>bc481157edfe90107f44c217ec8dfaca</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"record":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\n/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar gr \u003d new GlideRecord(\u0027x_cdltd_cloud_cour_course_table\u0027);\n//fd_data.trigger.current.setValue.enrolled_students \u003d 123;\ngr.query();\nwhile (gr.next()){\n    if (gr.getValue(\u0027total_capacity\u0027) \u003d\u003d\u003d \u002710\u0027) {\n        //gr.setValue(\u0027online_capacity\u0027, 99);\n        return gr;\n    }\n}\nreturn null;"}}</script>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>61575897ed3e90107f44c217ec8dfab6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_created_on>2020-08-28 08:48:09</sys_created_on>
+        <sys_id>3c481157edfe90107f44c217ec8dfacb</sys_id>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>values</field>
-        <id>6d575897ed3e90107f44c217ec8dfab4</id>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>e5575897ed3e90107f44c217ec8dfab6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:04:29</sys_updated_on>
-        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=6d575897ed3e90107f44c217ec8dfab4^sys_idNOT IN6d575897ed3e90107f44c217ec8dfab5"/>
+        <sys_updated_on>2020-08-28 09:22:02</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_input_scripts action="INSERT_OR_UPDATE">
         <active>true</active>
         <input_name>values</input_name>
-        <instance>6d575897ed3e90107f44c217ec8dfab4</instance>
+        <instance>bc481157edfe90107f44c217ec8dfaca</instance>
         <referenced_table>sys_hub_action_instance</referenced_table>
-        <script>{"total_capacity":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar shortDesc \u003d fd_data.trigger.current.total_capacity;\nreturn parseInt(shortDesc, 10) + 1;","savedValue":""}}</script>
+        <script>{"online_capacity":{"scriptActive":true,"script":"/*\n**Access Flow/Action data using the fd_data object. Script must return a value.\n**example: var shortDesc \u003d fd_data.trigger.current.short_description;\n**return shortDesc;\n*/\nvar gr \u003d new GlideRecord(\u0027x_cdltd_cloud_cour_course_table\u0027);\n//fd_data.trigger.current.setValue.enrolled_students \u003d 123;\ngr.query();\nwhile (gr.next()){\n    if (gr.getValue(\u0027total_capacity\u0027) \u003d\u003d\u003d \u002710\u0027) {\n        //gr.setValue(\u0027online_capacity\u0027, 99);\n        return gr.getValue(\u0027online_capacity\u0027) + 1;\n    }\n}\nreturn 0;","savedValue":""}}</script>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:04:29</sys_created_on>
-        <sys_id>6d575897ed3e90107f44c217ec8dfab5</sys_id>
+        <sys_created_on>2020-08-28 09:15:31</sys_created_on>
+        <sys_id>ad8e5d5bedfe90107f44c217ec8dfa1a</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:20:30</sys_updated_on>
+        <sys_updated_on>2020-08-28 09:30:55</sys_updated_on>
     </sys_hub_input_scripts>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_08638c9bedfa90107f44c217ec8dfac6^sys_idNOT IN8c638c9bedfa90107f44c217ec8dface,c4638c9bedfa90107f44c217ec8dfaea"/>
     <sys_documentation action="INSERT_OR_UPDATE">

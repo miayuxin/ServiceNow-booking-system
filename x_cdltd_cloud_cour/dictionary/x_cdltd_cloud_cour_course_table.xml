@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Course Table" max_length="40" name="x_cdltd_cloud_cour_course_table" type="collection">
+    <element label="Course Table" max_length="40" name="x_cdltd_cloud_cour_course_table" sizeclass="21" type="collection">
         <element choice="1" label="Campus location" max_length="40" name="campus_location" type="string">
             <choice>
                 <element inactive_on_update="false" label="Silicon Valley" sequence="0" value="silicon valley"/>
@@ -10,7 +10,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Classroom" max_length="40" name="classroom" type="string"/>
-        <element default="20" label="Classroom capacity" max_length="40" name="classroom_capacity" type="integer"/>
+        <element default="20" label="Classroom capacity" max_length="40" name="classroom_capacity" read_only="true" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Course ID" max_length="40" name="course_id" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Course level" max_length="40" name="course_level" type="string">
             <choice>
@@ -29,10 +29,10 @@
             </choice>
         </element>
         <element label="End time" max_length="40" name="end_time" type="glide_time"/>
-        <element label="Enrolled Classroom" max_length="40" name="enrolled_classroom" type="integer"/>
-        <element label="Enrolled Online" max_length="40" name="enrolled_online" type="integer"/>
-        <element label="Enrolled Students" max_length="40" name="enrolled_students" type="integer"/>
+        <element default="0" label="Enrolled on ground students" max_length="40" name="enrolled_on_ground_students" type="integer"/>
+        <element default="0" label="Enrolled students" max_length="40" name="enrolled_students" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Instructor" max_length="40" name="instructor" type="string"/>
+        <element label="Max Capacity Full" max_length="40" name="max_capacity_full" type="boolean"/>
         <element choice="1" label="Meeting date" max_length="40" name="meeting_date" type="string">
             <choice>
                 <element inactive_on_update="false" label="Mondy" sequence="0" value="mondy"/>
@@ -43,12 +43,16 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element default="30" label="online capacity" max_length="40" name="online_capacity" type="integer"/>
+        <element label="On Ground Full" max_length="40" name="on_ground_full" type="boolean"/>
         <element label="Start time" max_length="40" name="start_time" type="glide_time"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
-        <element default="50" label="Total capacity" max_length="40" name="total_capacity" type="integer"/>
+        <element default="50" label="Total capacity" max_length="40" name="total_capacity" read_only="true" type="integer"/>
         <element attributes="edge_encryption_enabled=true" dependent="user_id" dependent_on_field="user_id" label="User ID" mandatory="true" max_length="40" name="user_id" type="string" use_dependent_field="true"/>
+        <element attributes="encode_utf8=false" dependent="course_name" dependent_on_field="course_name" label="New Reference" max_length="32" name="u_reference_1" reference="x_cdltd_cloud_cour_course_table" type="reference" use_dependent_field="true"/>
         <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Student Registration Table">6fa2285fed3e90107f44c217ec8dfa96</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Student Registration Tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_cloud_cour_student_registration_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_cloud_cour.student_registration_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:54:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6ba2285fed3e90107f44c217ec8dfad7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Registration Tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_update_name>sys_app_module_6ba2285fed3e90107f44c217ec8dfad7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:54:02</sys_updated_on>
+        <timeline_page/>
+        <title>Student Registration Tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</application>
+        <file_path/>
+        <instance_id>e9fd8871db3e1c5880d9a18c1396199b</instance_id>
+        <instance_name>adf-aug-102-dev-060</instance_name>
+        <name>sys_app_module_6ba2285fed3e90107f44c217ec8dfad7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Student Registration Table">6fa2285fed3e90107f44c217ec8dfa96</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Student Registration Tables</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_cloud_cour_student_registration_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_cloud_cour.student_registration_table_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-28 04:54:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6ba2285fed3e90107f44c217ec8dfad7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Student Registration Tables</sys_name><sys_overrides/><sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package><sys_policy/><sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope><sys_update_name>sys_app_module_6ba2285fed3e90107f44c217ec8dfad7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-28 04:54:02</sys_updated_on><timeline_page/><title>Student Registration Tables</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>959864658</payload_hash>
+        <record_name>Student Registration Tables</record_name>
+        <reverted_from/>
+        <source>7b72245fed3e90107f44c217ec8dfa80</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:54:02</sys_created_on>
+        <sys_id>eba2285fed3e90107f44c217ec8dfad9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174336a5cd80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:54:02</sys_updated_on>
+        <type>Module</type>
+        <update_guid>27a2285f323e9010336387a3fb55e6d9</update_guid>
+        <update_guid_history>27a2285f323e9010336387a3fb55e6d9:959864658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Student Registration Tables">f9b8e453ed7e90107f44c217ec8dfa06</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 05:20:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>46fe0b161d404a1899f01996f2c2e259</sys_id>
+        <sys_metadata>6ba2285fed3e90107f44c217ec8dfad7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Registration Tables</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_scope_delete display_value="">0e6083f1e8b240d0881ae4b581a94900</sys_scope_delete>
+        <sys_update_name>sys_app_module_6ba2285fed3e90107f44c217ec8dfad7</sys_update_name>
+        <sys_update_version display_value="sys_app_module_6ba2285fed3e90107f44c217ec8dfad7">eba2285fed3e90107f44c217ec8dfad9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 05:20:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

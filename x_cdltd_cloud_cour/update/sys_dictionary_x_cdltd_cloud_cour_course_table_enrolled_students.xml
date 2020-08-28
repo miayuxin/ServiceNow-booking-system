@@ -9,10 +9,10 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Enrolled Students</column_label>
+        <column_label>Enrolled students</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>0</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -47,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-08-28 04:27:12</sys_created_on>
-        <sys_id>da8c585bed3e90107f44c217ec8dfa19</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Enrolled Students</sys_name>
+        <sys_created_on>2020-08-28 07:46:31</sys_created_on>
+        <sys_id>c62a815bedbe90107f44c217ec8dfa1f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Enrolled students</sys_name>
         <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
         <sys_update_name>sys_dictionary_x_cdltd_cloud_cour_course_table_enrolled_students</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-28 04:27:12</sys_updated_on>
+        <sys_updated_on>2020-08-28 10:05:20</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

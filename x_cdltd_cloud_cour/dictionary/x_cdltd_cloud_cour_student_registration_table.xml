@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student Registration Table" max_length="40" name="x_cdltd_cloud_cour_student_registration_table" sizeclass="5" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="CS5001" label="Course ID" mandatory="true" max_length="40" name="course_id" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CS5001" sequence="0" value="CS5001"/>
+                <element inactive_on_update="false" label="CS5002" sequence="1" value="CS5002"/>
+                <element inactive_on_update="false" label="CS5003" sequence="2" value="CS5003"/>
+                <element inactive_on_update="false" label="CS5004" sequence="3" value="CS5004"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Course name" max_length="40" name="course_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email address" max_length="40" name="email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student ID" max_length="40" name="student_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student name" max_length="40" name="student_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="online" label="Type of taking course" max_length="40" name="type_of_taking_course" type="string">
+            <choice>
+                <element inactive_on_update="false" label="online" sequence="0" value="online"/>
+                <element inactive_on_update="false" label="onground" sequence="1" value="onground"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" dependent="course_name" dependent_on_field="course_name" label="New Reference" max_length="32" name="u_reference_1" reference="x_cdltd_cloud_cour_course_table" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="student_name" label="Student name" language="en" table="x_cdltd_cloud_cour_student_registration_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <help/>
+            <hint/>
+            <label>Student name</label>
+            <language>en</language>
+            <name>x_cdltd_cloud_cour_student_registration_table</name>
+            <plural>Student names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 04:58:26</sys_created_on>
+            <sys_id>44b3a09fed3e90107f44c217ec8dfa78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Student name</sys_name>
+            <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_cloud_cour_student_registration_table_student_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 04:58:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
