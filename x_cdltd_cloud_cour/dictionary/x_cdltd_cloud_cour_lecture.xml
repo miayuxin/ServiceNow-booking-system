@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_cdltd_cloud_cour_course_table" label="Lecture" max_length="40" name="x_cdltd_cloud_cour_lecture" type="collection"/>
-</database>

@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
     <sys_ui_style action="INSERT_OR_UPDATE">
         <alt/>
-        <element>total_capacity</element>
+        <element>max_capacity_full</element>
         <name>x_cdltd_cloud_cour_course_table</name>
-        <style>background-color: #FFEFD5;&#13;
-</style>
+        <style>background-color: lightcoral;</style>
         <sys_class_name>sys_ui_style</sys_class_name>
         <sys_created_by>mia</sys_created_by>
-        <sys_created_on>2020-08-27 21:29:49</sys_created_on>
-        <sys_id>d00d3ec3ed7a90107f44c217ec8dfa66</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_created_on>2020-08-28 18:27:38</sys_created_on>
+        <sys_id>19ec9397ed36d0107f44c217ec8dfa39</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>x_cdltd_cloud_cour_course_table</sys_name>
         <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
-        <sys_update_name>sys_ui_style_d00d3ec3ed7a90107f44c217ec8dfa66</sys_update_name>
+        <sys_update_name>sys_ui_style_19ec9397ed36d0107f44c217ec8dfa39</sys_update_name>
         <sys_updated_by>mia</sys_updated_by>
-        <sys_updated_on>2020-08-28 17:11:09</sys_updated_on>
+        <sys_updated_on>2020-08-28 18:28:05</sys_updated_on>
         <value/>
     </sys_ui_style>
-    <sys_translated_text action="delete_multiple" query="documentkey=d00d3ec3ed7a90107f44c217ec8dfa66"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=19ec9397ed36d0107f44c217ec8dfa39"/>
 </record_update>
