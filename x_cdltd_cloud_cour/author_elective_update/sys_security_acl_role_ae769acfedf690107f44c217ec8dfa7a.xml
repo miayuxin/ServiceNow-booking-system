@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 18:41:29</sys_created_on>
+        <sys_id>ae769acfedf690107f44c217ec8dfa7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cloud_cour_user_class_table.x_cdltd_cloud_cour.user_class_table_user</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_security_acl display_value="x_cdltd_cloud_cour_user_class_table">22769acfedf690107f44c217ec8dfa78</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ae769acfedf690107f44c217ec8dfa7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 18:41:29</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_cloud_cour.user_class_table_user" name="x_cdltd_cloud_cour.user_class_table_user">da765acfedf690107f44c217ec8dfac2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</application>
+        <file_path/>
+        <instance_id>e9fd8871db3e1c5880d9a18c1396199b</instance_id>
+        <instance_name>adf-aug-102-dev-060</instance_name>
+        <name>sys_security_acl_role_ae769acfedf690107f44c217ec8dfa7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 18:41:29</sys_created_on><sys_id>ae769acfedf690107f44c217ec8dfa7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_cloud_cour_user_class_table.x_cdltd_cloud_cour.user_class_table_user</sys_name><sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package><sys_policy/><sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope><sys_security_acl display_value="x_cdltd_cloud_cour_user_class_table">22769acfedf690107f44c217ec8dfa78</sys_security_acl><sys_update_name>sys_security_acl_role_ae769acfedf690107f44c217ec8dfa7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 18:41:29</sys_updated_on><sys_user_role display_value="x_cdltd_cloud_cour.user_class_table_user" name="x_cdltd_cloud_cour.user_class_table_user">da765acfedf690107f44c217ec8dfac2</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>594920285</payload_hash>
+        <record_name>x_cdltd_cloud_cour_user_class_table.x_cdltd_cloud_cour.user_class_table_user</record_name>
+        <reverted_from/>
+        <source>2551920fedf690107f44c217ec8dfaa1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 18:41:29</sys_created_on>
+        <sys_id>66769acfedf690107f44c217ec8dfa7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17431398df90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 18:41:29</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>ae769acf1ff6901095c44a3b5e8cfe7c</update_guid>
+        <update_guid_history>ae769acf1ff6901095c44a3b5e8cfe7c:594920285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_cloud_cour_user_class_table.x_cdltd_cloud_cour.user_class_table_user">aa42ac1fed3e90107f44c217ec8dfaf3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 04:52:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0ba09bb1d5cd485a80a3f4e752024184</sys_id>
+        <sys_metadata>ae769acfedf690107f44c217ec8dfa7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_cloud_cour_user_class_table.x_cdltd_cloud_cour.user_class_table_user</sys_name>
+        <sys_package display_value="Cloud Course Schedule" source="x_cdltd_cloud_cour">a551920fedf690107f44c217ec8dfa9f</sys_package>
+        <sys_parent display_value="">22769acfedf690107f44c217ec8dfa78</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Cloud Course Schedule">a551920fedf690107f44c217ec8dfa9f</sys_scope>
+        <sys_scope_delete display_value="">0e6083f1e8b240d0881ae4b581a94900</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ae769acfedf690107f44c217ec8dfa7a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ae769acfedf690107f44c217ec8dfa7a">66769acfedf690107f44c217ec8dfa7d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 04:52:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
